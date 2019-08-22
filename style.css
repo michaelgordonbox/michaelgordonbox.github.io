@@ -90,7 +90,7 @@ body {
 .title_red {
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
-    font-size: 15px;
+    font-size: 35px;
     line-height: 1.8;
     color: #ff0000;        
 }
@@ -99,7 +99,7 @@ body {
 .title_blue {
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
-    font-size: 15px;
+    font-size: 35px;
     line-height: 1.8;
     color: #0000ff;        
 }
