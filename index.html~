@@ -78,7 +78,6 @@
                     <h2>Lets solve your problems</h2>
                     <p>
                     Our elite teams build apps, responsive websites, bots—any digital product that interacts with users—for the world’s leading companies. We cultivate expertise in every stage of product creation, resulting in extraordinary digital experiences.</p>
-                    <a href="#" class="button white">Watch video</a>
                 </div>
                 <div class="hidden-xs hidden-sm col-md-5 text-right">
                     <div class="screen-box screen-slider">
@@ -248,8 +247,15 @@ trying to evolve your brand for the future, we’re ready!</p>
                                 <input type="text" id="form-phone" name="form-phone" placeholder="Your phone" class="form-control">
                                 <input type="text" id="form-website" name="form-website" class="form-control" placeholder="Your website">                                
                             </div>                            
+                           <input type="text" id="form-appname" name="form-appname" placeholder="Your App Name" class="form-control">
                             <div class="form-double">
-                                <input type="text" id="form-appname" name="form-appname" placeholder="Your App Name" class="form-control">
+                                <input list="package" id="form-package" name="form-package" class="form-control" placeholder="Selected Package">
+                                <datalist id="package">
+                                    <option value="Basic">
+                                    <option value="Standard">
+                                    <option value="Unlimited">
+                                 </datalist>                                
+
                                 <input list="apptype" id="form-apptype" name="form-apptype" class="form-control" placeholder="Your App Type">
                                 <datalist id="apptype">
                                     <option value="E-Commerce">
@@ -257,7 +263,6 @@ trying to evolve your brand for the future, we’re ready!</p>
                                     <option value="Services">
                                  </datalist>                                
                             </div>                            
-                            <input type="text" id="form-appname" name="form-appname" class="form-control" placeholder="Mobile App name or industry">
                             <textarea name="message" id="form-message" name="form-message" rows="5" class="form-control" placeholder="Your message" required="required"></textarea>
                             <button type="sibmit" class="button">Submit</button>
                         </form>
