@@ -122,8 +122,8 @@
             <div class="row">
                 <div class="col-xs-12 col-sm-6 col-sm-offset-3 text-center">
                     <div class="page-title">
-                        <h2>Afortable Price</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit voluptates, temporibus at, facere harum fugiat!</p>
+                        <h2>Affordable Prices</h2>
+                        <p>Known for performance at a low price, our teams rapidly deploy solutions for each client. </p>
                     </div>
                 </div>
             </div>
@@ -133,32 +133,38 @@
                         <h3 class="text-uppercase price-title">Basic</h3>
                         <hr>
                         <ul class="list-unstyled">
-                            <li><strong class="amount">$ <span class="big">20</span></strong>/Month</li>
-                            <li>100 MB Disk Space</li>
-                            <li>2 Subdomains</li>
-                            <li>5 Email Accounts</li>
-                            <li>Webmail Support</li>
-                            <li>Customer Support 24/7</li>
+                            <li><strong class="amount">$0 <span class="big"></span></strong>/Free</li>
+                            <li>Template Based</li>
+                            <li>Ad Supported</li>
+                            <li>No Subscription Fee</li>
+                            <li>No Setup Fees</li>
+                            <li>No Sign-up Fee</li>
+                            <li>Link to your whatsapp, facebook and instagram </li>
+                            <li>Ecommerce Chatbot</li>
+                            <li>Email Support</li>
                         </ul>
-                        <hr>
-                        <a href="#" class="button">Purchase</a>
+                        <hr>    
+                        <a href="https://michaelgordonbox.github.io/signup?price=unlimited" class="button">Sign-Up</a>                    
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-4">
                     <div class="price-table active">
                         <span class="price-info"><span class="ti-crown"></span></span>
-                        <h3 class="text-uppercase price-title">STABDARD</h3>
+                        <h3 class="text-uppercase price-title">STANDARD</h3>
                         <hr>
                         <ul class="list-unstyled">
-                            <li><strong class="amount">$ <span class="big">39</span></strong>/Month</li>
-                            <li>100 MB Disk Space</li>
-                            <li>2 Subdomains</li>
-                            <li>5 Email Accounts</li>
-                            <li>Webmail Support</li>
-                            <li>Customer Support 24/7</li>
+                            <li><strong class="amount">$USD <span class="big">10</span></strong>/Month</li>
+                            <li>Template Based</li>
+                            <li>No Ads</li>
+                            <li>USD$10 Subscription Fee</li>
+                            <li>USD$10 Setup Fee</li>
+                            <li>USD$30 Sign-up Fee</li>
+                            <li>Mobile CRM, Link to your Whatsapp, Facebook and Instagram</li>
+                            <li>Ecommerce, Food Delivery and Service Chatbots </li>
+                            <li>Electronic Customer Support 24/7</li>
                         </ul>
                         <hr>
-                        <a href="#" class="button">Purchase</a>
+                        <a href="https://paypal.me/michaelgordonbox?price=unlimited" class="button">Purchase</a>
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-4">
@@ -166,15 +172,18 @@
                         <h3 class="text-uppercase price-title">UNLIMITED</h3>
                         <hr>
                         <ul class="list-unstyled">
-                            <li><strong class="amount">$ <span class="big">59</span></strong>/Month</li>
-                            <li>100 MB Disk Space</li>
-                            <li>2 Subdomains</li>
-                            <li>5 Email Accounts</li>
-                            <li>Webmail Support</li>
-                            <li>Customer Support 24/7</li>
+                            <li><strong class="amount">$USD <span class="big">250</span></strong>/Month</li>
+                            <li>Template Based</li>
+                            <li>No Ads</li>
+                            <li>USD$10 Subscription Fee</li>
+                            <li>USD$10 Setup Fee</li>
+                            <li>USD$30 Sign-up Fee</li>
+                            <li>Mobile CRM, Link to your Whatsapp, Facebook and Instagram</li>
+                            <li>Ecommerce, Food Delivery and Service Chatbots </li>
+                            <li>Electronic Customer Support 24/7</li>
                         </ul>
                         <hr>
-                        <a href="#" class="button">Purchase</a>
+                        <a href="https://paypal.me/michaelgordonbox?price=unlimited" class="button">Purchase</a>
                     </div>
                 </div>
             </div>
