@@ -4,6 +4,10 @@
     ==========================*/
     $(document).ready(function(){
           
+          $("button").click(function(){
+            $("input:text").val("Glenn Quagmire");
+          });
+          
           $("#package-1").click(function(){
             $("#form-package:text").val("Basic");
           });
