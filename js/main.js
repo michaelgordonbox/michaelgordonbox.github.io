@@ -2,23 +2,18 @@
 
     /* Mobile menu click then remove
     ==========================*/
-    $(document).ready(function(){
           
-          $("#package-1").click(function(){
-            $("#form-package:text").val("Basic");
-          });
-          
-          $("#package-2").click(function(){
-            $("#form-package:text").val("Standard");
-          });
-          
-          $("#package-3").click(function(){
-            $("#form-package:text").val("Unlimited");
-          });
-
-          
+    $("#package-1").click(function(){
+        $("#form-package:text").val("Basic");
     });
-
+  
+    $("#package-2").click(function(){
+        $("#form-package:text").val("Standard");
+    });
+  
+    $("#package-3").click(function(){
+        $("#form-package:text").val("Unlimited");
+    });
 
     "use strict";
     $(".carousel-inner .item:first-child").addClass("active");
